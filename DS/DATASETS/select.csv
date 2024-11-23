@@ -1,0 +1,615 @@
+Gender,Education,Credit_History
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Female,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Female,Graduate,1.0
+Female,Not Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Female,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,0.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,0.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Female,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Female,Not Graduate,0.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,0.0
+Male,Not Graduate,0.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Female,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Female,Graduate,0.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Not Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,0.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Male,Not Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Male,Graduate,1.0
+Female,Graduate,0.0
