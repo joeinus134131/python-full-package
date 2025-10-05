@@ -101,7 +101,14 @@ if __name__ == "__main__":
     
     # Test 3: Visualisasi (akan jalan di CPU)
     print("\n📊 Testing visualization...")
-    sentence = ["I", "love", "transformer", "models"]
+    # sentence = ["I", "love", "transformer", "models"]
+    # sentence = [
+    #     "I love machine learning",
+    #     "Transformer models are amazing", 
+    #     "Attention mechanism is powerful",
+    #     "I study deep learning"
+    # ]
+    sentence = ["Made", "Agus", "Andi", "Gunawan"]
     attention_weights = torch.randn(1, 4, len(sentence), len(sentence))  # Mock data
     
     plt.figure(figsize=(10, 8))
